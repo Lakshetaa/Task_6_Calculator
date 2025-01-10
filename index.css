@@ -9,6 +9,7 @@ body{
     font-style: italic;
     background-image: url('bg.jpg');
     background-size: 900px 447px;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 table{
