@@ -46,5 +46,6 @@ button{
 }
 
 button:hover{
+    transform:scale(1.25) ;
     background-image: radial-gradient(white,rgba(3, 113, 95, 0.5));
 }
